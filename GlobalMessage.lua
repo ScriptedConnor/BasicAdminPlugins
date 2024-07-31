@@ -21,7 +21,7 @@ local Plugin = function(...)
 	local pluginName = 'globalmessage'
 	local pluginPrefix = Prefix
 	local pluginLevel = 3
-	local pluginUsage = "<Message>" -- leave blank if the command has no arguments
+	local pluginUsage = "<Text>" -- leave blank if the command has no arguments
 	local pluginDescription = "Sends a message to all running servers."
 	
 	-- Example Plugin Function --
